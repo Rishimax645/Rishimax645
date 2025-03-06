@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rishwanth
 - 👀 I’m interested in doing internship 
 - 🌱 I’m currently learning B.E ECE from Sathyabama Institute of Science and Technology,Chennai
-- 💞️ I’m looking to collaborate on #codsoft and #oasis infobyte
 - 📫 How to reach me ...
 
 <!---
